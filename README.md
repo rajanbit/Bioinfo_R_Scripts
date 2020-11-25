@@ -1,2 +1,3 @@
 # Bioinfo_R_Scripts
-R Scripts for Bioinformatics 
+## R Scripts for Bioinformatics 
+### line_chart.R
