@@ -30,3 +30,8 @@ Save the example data within a tsv file (example.tsv) and run the script
 ```bash
 $ Rscript bar_chart.R example.tsv
 ```
+### heatmap.R
+Make Heat_Map using data within the script itself
+```
+$ Rscript heatmap.R
+```
