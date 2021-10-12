@@ -35,3 +35,18 @@ Make Heat_Map using data within the script itself
 ```
 $ Rscript heatmap.R
 ```
+### boxplot.R
+Make Box_Plot using data from a .tsv file
+
+Example data:
+```
+	gene1	gene2	gene3
+sample1	2	23	22
+sample2	4	21	1
+sample3	4	11	22
+sample4	6	18	9
+```
+Save the example data within a tsv file (example.tsv) and run the script
+```
+$ Rscript boxplot.R example.tsv
+```
