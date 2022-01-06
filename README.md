@@ -50,3 +50,9 @@ Save the example data within a tsv file (example.tsv) and run the script
 ```
 $ Rscript boxplot.R example.tsv
 ```
+### volcano_plot.R
+Make Volcano plot using DESeq2 output data ([volcano_plot_test_data](https://github.com/rajanbit/Bioinfo_R_Scripts/blob/main/Test_Data/volcano_plot_test_data.tsv))
+
+```
+$ Rscript volcano_plot.R <data.tsv>
+```
