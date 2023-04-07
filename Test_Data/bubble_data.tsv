@@ -1,0 +1,7 @@
+Gene	len_Gene	n_Exons	len_ORF	type_Gene
+Gene1	11230	14	9000	Lipid_Biosynthesis
+Gene2	1245	4	500	Glucose_Biosynthesis
+Gene3	10000	10	8000	Lipid_Biosynthesis
+Gene4	5000	6	4000	Protein_Biosynthesis
+Gene5	4000	3	2000	Protein_Biosynthesis
+Gene6	2300	2	1000	Glucose_Biosynthesis

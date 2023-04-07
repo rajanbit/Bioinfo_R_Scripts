@@ -3,7 +3,7 @@ library(ggplot2)
 library(reshape2)
 
 # Reading dataframe
-data <- read.table("dummy_data1.csv", sep =",", header= TRUE)
+data <- read.table("../Test_Data/dummy_data1.csv", sep =",", header= TRUE)
 
 # Transforming dataframe to matrix
 mat <- as.matrix(data[, -1])

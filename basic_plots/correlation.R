@@ -2,7 +2,7 @@
 library("corrplot")
 
 # Reading data
-data <- read.table(file="dummy_data1.csv", header = TRUE, sep = ",")
+data <- read.table(file="../Test_Data/dummy_data1.csv", header = TRUE, sep = ",")
 
 # Defining image parameter
 png(file = "correlation.png", width=500, height=400)

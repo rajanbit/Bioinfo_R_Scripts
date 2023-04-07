@@ -1,5 +1,5 @@
 # Reading dataframe
-data <- read.table(file="dummy_data1.csv", header = TRUE, sep = ",")
+data <- read.table(file="../Test_Data/dummy_data1.csv", header = TRUE, sep = ",")
 
 # Transforming dataframe to matrix
 mat <- as.matrix(data[, -1])

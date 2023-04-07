@@ -1,5 +1,5 @@
 # Reading dataframe
-data <- read.table("dummy_data1.csv", sep =",", header= TRUE)
+data <- read.table("../Test_Data/dummy_data1.csv", sep =",", header= TRUE)
 
 # Defining image parameter
 png(file = "boxplot.png", width=600, height=500)
