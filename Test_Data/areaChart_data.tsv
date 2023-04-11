@@ -1,0 +1,22 @@
+Time	Expr_Value	Gene
+5	10	Gene1
+15	20	Gene1
+20	5	Gene1
+30	15	Gene1
+5	20	Gene2
+15	45	Gene2
+20	20	Gene2
+30	25	Gene2
+5	30	Gene3
+15	55	Gene3
+20	30	Gene3
+30	5	Gene3
+5	40	Gene4
+15	65	Gene4
+20	40	Gene4
+30	35	Gene4
+5	50	Gene5
+15	80	Gene5
+20	50	Gene5
+30	45	Gene5
+
